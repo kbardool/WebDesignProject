@@ -42,6 +42,9 @@ The login is NOT required to use the website, it was implemented to become famil
 #### Version
 0.1
 
+####Deployment
+A clean and install build will generate the WAR file. This file can be deployed in Tomcat using automatic war file extact.
+
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
    [node.js]: <http://nodejs.org>
