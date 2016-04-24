@@ -27,10 +27,20 @@ The technologies that were used include the following:
 
 #### Persistance Layer
  Originally project was built using MySQL, but switched over to HSQLDB integrated Database for portability
+
+#### Login Information
+The login is NOT required to use the website, it was implemented to become familiar with the basics of Spring security
+
+| Username              	| Password 	| Role            	|
+|-----------------------	|----------	|-----------------	|
+| user                  	| 12345    	| ROLE_USER       	|
+| admin@outlook.com     	| 12345    	| ROLE_ADMIN      	|
+| superuser@outlook.com 	| 12345    	| ROLE_SUPER_USER 	|
+| test1@outlook.com     	| 12345    	| ROLE_USER       	|
+
  
 #### Version
 0.1
-
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
