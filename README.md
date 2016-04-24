@@ -25,6 +25,12 @@ The technologies that were used include the following:
 * [Angular Smart Table] - Smart table is an Angularjs module to easily display data in a table with a set of built in features such filtering,sorting, etc 
 * [jQuery] 
 
+#### How to try it out
+* Deploy WAR file to local app server
+* Try it on HEROKU: <https://websrvr.herokuapp.com/>
+
+... it's still quite frigile, so please be gentle :-)
+
 #### Persistance Layer
  Originally project was built using MySQL, but switched over to HSQLDB integrated Database for portability
 
